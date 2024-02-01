@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @rherbin
-- 👀 I’m interested in web developpement and solving problems using Python
-- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on websites developpement and python projects, but I'm still learning so it's at your own risk
-- 📫 Reach me by email at rodolpherbin@gmail.com
+Student at Paris Dauphine PSL, 2nd year. Currently learning C, R, haskell and shell.
