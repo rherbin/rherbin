@@ -1,1 +1,1 @@
-Student at Paris Dauphine PSL, 2nd year. Currently learning C, R, haskell and shell.
+Student at Paris Dauphine PSL, 3rd year IM2D. I can code in C, Python, Java and javascript/typescript.
