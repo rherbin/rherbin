@@ -18,3 +18,4 @@ Python project to draw cool patterns using linked rotators. Inspired by viral In
 # Currently working on
 - isoplot project C engine
 - Automatic PC builder project
+- Terminal chatroom with a server and a client made from scratch
